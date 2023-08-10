@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="/寄生蟲/Public/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/Public/bootstrap/css/bootstrap.min.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
@@ -12,9 +12,9 @@
     <meta keywords="<?php echo ((isset($keywords) && ($keywords !== ""))?($keywords):''); ?>">
     <meta name="description" content="<?php echo ((isset($description) && ($description !== ""))?($description):''); ?>">
     <meta name="author" content="<?php echo ((isset($author) && ($author !== ""))?($author):'Whirlwind'); ?>">
-    <link rel="stylesheet" type="text/css" href="/寄生蟲/Public/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/Public/css/index.css">
     <script>
-    var CONTROLLER = "/寄生蟲/Home/Index";
+    var CONTROLLER = "/index.php/Home/Index";
     </script>
 </head>
 
@@ -48,12 +48,12 @@ Whirlwind Website Cluster and Spider Pool(WWCSP) v2.0 alpha Mail:wind#fbi.org.in
 <!-- Bootstrap core JavaScript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="/寄生蟲/Public/js/jquery.js"></script>
-<script type="text/javascript" src="/寄生蟲/Public/bootstrap/js/bootstrap.min.js"></script>
+<script src="/Public/js/jquery.js"></script>
+<script type="text/javascript" src="/Public/bootstrap/js/bootstrap.min.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script type="text/javascript" src="/寄生蟲/Public/js/ie10-viewport-bug-workaround.js"></script>
-<script type="text/javascript" src="/寄生蟲/Public/js/index.js"></script>
-<script type="text/javascript" src="/寄生蟲/Public/js/Chart.js"></script>
+<script type="text/javascript" src="/Public/js/ie10-viewport-bug-workaround.js"></script>
+<script type="text/javascript" src="/Public/js/index.js"></script>
+<script type="text/javascript" src="/Public/js/Chart.js"></script>
 </body>
 
 </html>

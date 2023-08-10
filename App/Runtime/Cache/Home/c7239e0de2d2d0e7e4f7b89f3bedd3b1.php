@@ -1,1 +1,0 @@
-<?php if (!defined('THINK_PATH')) exit();?>showshell功能正在开发。
